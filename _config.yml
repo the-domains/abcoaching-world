@@ -1,0 +1,26 @@
+layout_spectrum: 0.2605396
+name: ABCoaching World
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  brandStrength: 0.758562
+  lightness: 0.1184475
+  saturation: 0.5725126
+  rhythmicContrast: 0.8305228
+  brandColors:
+    - '#FFFFFF'
+    - '#3B2213'
+    - '#DFD7D0'
+    - '#91CFCF'
+    - '#BFB4AB'
+typography_spectrum: 0.07166947
